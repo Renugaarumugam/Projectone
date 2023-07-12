@@ -53,6 +53,7 @@ public class TaskOne {
 			String text1 = price.getText();
 			System.out.println(text1);
 		}
+		//true
 		
 	}
 }
